@@ -53,6 +53,25 @@ body {
     display: inline-flex;
 }
 
+.table {
+    /* display: inline-block; */
+    position: relative;
+    top: 100px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 50px;
+    line-height: 25px;
+    text-align: left;
+}
+
+td {
+    padding-right: 20px;
+}
+
 .footer {
     margin-top: 100px;
 }
